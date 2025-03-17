@@ -13,6 +13,7 @@ public class pract {
 		Thread.sleep(3000);
 		driver.manage().window().maximize();
 		System.out.println("executed successfully");
+		System.out.println("Arul");
 		driver.close();
 	}
 }
